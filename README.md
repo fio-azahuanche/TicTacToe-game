@@ -1,5 +1,5 @@
 # SOBRE EL PROYECTO
-En este proyecto recreamos el famoso juego "Tic-Tac-Toe" utilizando ReactJS.
+En este proyecto recreo el famoso juego "Tic-Tac-Toe" utilizando ReactJS.
 
 # REGLAS DEL JUEGO
 
